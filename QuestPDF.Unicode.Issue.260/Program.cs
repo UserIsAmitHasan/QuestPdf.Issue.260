@@ -67,7 +67,7 @@ void ComposeTable(IContainer container)
         table.Cell().Element(x => x.Border(1)).AlignCenter().Text("Incorrect").FontColor(Colors.Red.Darken3);
 
         //Outputs correct result
-        table.Cell().Element(x => x.Border(1)).AlignCenter().Text(3);
+        table.Cell().Element(x => x.Border(1)).AlignCenter().Text(4);
         table.Cell().Element(x => x.Border(1)).AlignCenter().Text("English and Bengali text separated by span");
         table.Cell().Element(x => x.Border(1)).AlignCenter().Text(x=>
         {
