@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestPDF.Unicode.Issue.260", "QuestPDF.Unicode.Issue.260\QuestPDF.Unicode.Issue.260.csproj", "{D1080511-86EB-4C83-9736-1B734B49A47C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1080511-86EB-4C83-9736-1B734B49A47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1080511-86EB-4C83-9736-1B734B49A47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1080511-86EB-4C83-9736-1B734B49A47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1080511-86EB-4C83-9736-1B734B49A47C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF08CBE0-C927-4605-B20B-B9CDAFA60159}
+	EndGlobalSection
+EndGlobal
